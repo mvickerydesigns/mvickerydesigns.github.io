@@ -1,0 +1,17 @@
+body {
+  background: url(rohan-makhecha-408650-unsplash.jpg);
+  background-size: cover;
+}
+
+
+
+.imgSource {
+	margin-top: 350px;
+	text-align: right;
+}
+
+.button {
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+}
